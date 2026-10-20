@@ -239,7 +239,7 @@ body, html {
 
 
 
-.R04Cname::after {
+/* .R04Cname::after {
   content: "";
   display: inline-block;
   width: 6%;
@@ -249,9 +249,9 @@ body, html {
   background-repeat: no-repeat;
   margin-left: 3px;
   background-position: center bottom;
-}
+} */
 
-.R06Cname::after {
+/* .R06Cname::after {
   content: "";
   display: inline-block;
   width: 14%;
@@ -261,9 +261,9 @@ body, html {
   background-repeat: no-repeat;
   margin-left: 3px;
   background-position: center bottom;
-}
+} */
 
-.R08Cname::after {
+/* .R08Cname::after {
   content: "";
   display: inline-block;
   width: 1.35vw;
@@ -272,9 +272,9 @@ body, html {
   background-color: rgb(138, 184, 186);
   margin-left: 6px;
   background-position: center bottom;
-}
+} */
 
-.R09Cname::after {
+/* .R09Cname::after {
   content: "";
   display: inline-block;
   width: 6%;
@@ -284,7 +284,7 @@ body, html {
   background-repeat: no-repeat;
   margin-left: 3px;
   background-position: center bottom;
-}
+} */
 
 @-webkit-keyframes fadeIn {
   0% {
